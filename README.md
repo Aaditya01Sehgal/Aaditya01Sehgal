@@ -76,7 +76,7 @@ Currently preparing for **internships & placement season** with a focus on **hig
 
 ## 🏆 Achievements  
 
-- 🥇 **LeetCode Max Rating:** 1801  
+- 🥇 **LeetCode ** Knight (Max Rating: 1876) 
 - ⭐ **Codeforces:** Specialist (Max Rating: 1424)  
 - 🏅 Rank **24** – OPC April (Hack36 Preliminary)  
 - 🏅 Rank **58** – CodeStart 8.0  
@@ -87,7 +87,7 @@ Currently preparing for **internships & placement season** with a focus on **hig
 
 ## 📈 Competitive Programming Profiles  
 
-- **LeetCode:** https://leetcode.com/Aaditya01Sehgal  
+- **LeetCode:** https://leetcode.com/Aaditysa01Sehgal  
 - **Codeforces:** https://codeforces.com/profile/Aaditya01Sehgal  
 - **GitHub:** https://github.com/Aaditya01Sehgal  
 
